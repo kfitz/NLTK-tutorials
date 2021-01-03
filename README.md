@@ -1,5 +1,8 @@
-# Week2
-This is the repository for the Week 2 assignment in DHUM 72500. 
+# NLTK Tutorials
 
-To complete the assignment, look just above this "read me" section to the right side of your screen and click the clone or download button. A small pop-up window will open. Select "Download ZIP." This will download a folder with the notebook file. Save the .zip file to a location on your desktop, preferably a folder that you create just for activities for this course. Unzip the contents of the file by finding it on your computer and double clicking. If you have not already done so, open Anaconda Navigator. Click the "Launch" button under "jupyter notebook." From the open and running notebook, open the Week2-notebook.ipynb file. The directions for what to do in the notebook are included in the notebook itself. 
+This repository holds several Jupyter notebooks for use in learning NLTK. They've been gratefully forked from notebooks created by [Lisa Rhody](http://www.lisarhody.com) for her [Methods of Text Analysis course](https://github.com/DHUM72500) at the CUNY Graduate Center. (For more on Lisa's course, see her [CUNY Academic Commons site](https://femethods2020.commons.gc.cuny.edu).) 
+
+To complete these assignments, look just above this "read me" section to the right side of your screen and click the Code button. A small pop-up window will open. Select "Download ZIP." This will download a folder with the notebook files. Unzip the contents of the file by finding it on your computer and double clicking, and then move the ipynb files into your Jupyter Notebooks folder.
+
+When that's done, Anaconda Navigator. Click the "Launch" button under "Jupyter Notebook." From the Jupyter Server browser tab, you can launch each notebook in turn. The directions for what to do are included in each notebook. 
 
